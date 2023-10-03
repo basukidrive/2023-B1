@@ -178,8 +178,8 @@
             width="121"
             height="49"/>
         <archimateElement
-            xsi:type="archimate:ApplicationComponent"
-            href="ApplicationComponent_id-98a87213d0f54a6c977c5d3621806730.xml#id-98a87213d0f54a6c977c5d3621806730"/>
+            xsi:type="archimate:ApplicationFunction"
+            href="ApplicationFunction_id-83ad34e733794a128904289648d655fb.xml#id-83ad34e733794a128904289648d655fb"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
