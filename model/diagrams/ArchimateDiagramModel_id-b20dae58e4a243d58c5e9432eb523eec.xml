@@ -147,4 +147,16 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_id-4e79d9b8b0af417bb87d548a67cc8ebb.xml#id-4e79d9b8b0af417bb87d548a67cc8ebb"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-cf5616d8258b4425adcf92d13725cc5c">
+    <bounds
+        x="96"
+        y="216"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-ac1a72e8a301466094d7b293b70b2a73.xml#id-ac1a72e8a301466094d7b293b70b2a73"/>
+  </children>
 </archimate:ArchimateDiagramModel>
