@@ -11,6 +11,30 @@
         id="id-2d4d2e2b18064a0aa4aae945eef60540"
         source="id-5f8ce44f215747d5a034b904f4a2b492"
         target="id-9b4b4a78a695406286ea8961ac2c7a2b">
+      <bendpoints
+          startX="-4"
+          startY="42"
+          endX="60"
+          endY="-54"/>
+      <bendpoints
+          startX="-4"
+          startY="54"
+          endX="60"
+          endY="-42"/>
+      <bendpoints
+          startX="-16"
+          startY="54"
+          endX="48"
+          endY="-42"/>
+      <bendpoints
+          startX="-40"
+          startY="54"
+          endX="24"
+          endY="-42"/>
+      <bendpoints
+          startX="-64"
+          startY="54"
+          endY="-42"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-6e9e81f094ca4271b6ac1d39bdfa15fe.xml#id-6e9e81f094ca4271b6ac1d39bdfa15fe"/>
@@ -20,6 +44,30 @@
         id="id-08e8255aa94a46baabe188e245845e51"
         source="id-5f8ce44f215747d5a034b904f4a2b492"
         target="id-29c6bde46aa146b09404cefaeb4cbff0">
+      <bendpoints
+          startX="-4"
+          startY="42"
+          endX="-80"
+          endY="-54"/>
+      <bendpoints
+          startX="-4"
+          startY="54"
+          endX="-80"
+          endY="-42"/>
+      <bendpoints
+          startX="32"
+          startY="54"
+          endX="-44"
+          endY="-42"/>
+      <bendpoints
+          startX="56"
+          startY="54"
+          endX="-20"
+          endY="-42"/>
+      <bendpoints
+          startX="76"
+          startY="54"
+          endY="-42"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-eb3dbcc139384e5e9963dc4fab302b52.xml#id-eb3dbcc139384e5e9963dc4fab302b52"/>
@@ -29,6 +77,16 @@
         id="id-af5d6d3743c34d7fa8c4887e7d7e62db"
         source="id-5f8ce44f215747d5a034b904f4a2b492"
         target="id-1377b78e6849491fb1fa62499e26ca2d">
+      <bendpoints
+          startX="-4"
+          startY="54"
+          endX="200"
+          endY="-42"/>
+      <bendpoints
+          startX="-208"
+          startY="54"
+          endX="-4"
+          endY="-42"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-91416c3ae5bb407693017e9ab17f9e64.xml#id-91416c3ae5bb407693017e9ab17f9e64"/>
@@ -38,6 +96,15 @@
         id="id-543e4a544a8549fea64de69fe7c64726"
         source="id-5f8ce44f215747d5a034b904f4a2b492"
         target="id-a425ba7d92f74211b4e5d353830ade81">
+      <bendpoints
+          startX="-4"
+          startY="54"
+          endX="336"
+          endY="-42"/>
+      <bendpoints
+          startX="-340"
+          startY="54"
+          endY="-42"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-785fdaf4ce1e40cbaa5474bdd5393a5c.xml#id-785fdaf4ce1e40cbaa5474bdd5393a5c"/>
@@ -47,6 +114,15 @@
         id="id-8001dff2ec304d6c902a84993a2859b3"
         source="id-5f8ce44f215747d5a034b904f4a2b492"
         target="id-1e79320419a34e6787d032038e37bfe4">
+      <bendpoints
+          startX="-4"
+          startY="54"
+          endX="-216"
+          endY="-42"/>
+      <bendpoints
+          startX="212"
+          startY="54"
+          endY="-42"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-9e360c30579441c0a149f44777a251db.xml#id-9e360c30579441c0a149f44777a251db"/>
@@ -56,6 +132,16 @@
         id="id-5666742bef0148a4b19af4cdcbee52f1"
         source="id-5f8ce44f215747d5a034b904f4a2b492"
         target="id-9e00369ca5d44ea6ba57779de0b570b2">
+      <bendpoints
+          startX="-4"
+          startY="54"
+          endX="-356"
+          endY="-42"/>
+      <bendpoints
+          startX="356"
+          startY="54"
+          endX="4"
+          endY="-42"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-a743589cce834f50a1f61d3e7c0655cd.xml#id-a743589cce834f50a1f61d3e7c0655cd"/>
