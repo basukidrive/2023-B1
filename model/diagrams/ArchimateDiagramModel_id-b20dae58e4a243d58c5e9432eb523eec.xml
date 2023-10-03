@@ -415,10 +415,10 @@
       id="id-722f58860e5d45e5ac4c0ff425d231a0"
       targetConnections="id-10d1a4f18d2743e0acb6eb68ddb6773d id-35298fee57174404acb4d9785d8b99d3 id-7511f2313fea43ccb27f454ee0fe519a">
     <bounds
-        x="228"
+        x="168"
         y="12"
         width="577"
-        height="205"/>
+        height="193"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6093b5dc305343c1b7a945b4b17161ee">
