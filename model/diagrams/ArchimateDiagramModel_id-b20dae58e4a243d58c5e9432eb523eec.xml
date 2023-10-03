@@ -233,28 +233,4 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_id-4e79d9b8b0af417bb87d548a67cc8ebb.xml#id-4e79d9b8b0af417bb87d548a67cc8ebb"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-73c4287386384fc8af0ac71ef628c68c">
-    <bounds
-        x="420"
-        y="-48"
-        width="120"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-2521ff2d2e974b1186e3d9baa1a3ba6a.xml#id-2521ff2d2e974b1186e3d9baa1a3ba6a"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a9c26b06f127441998780cf1c357b89e">
-    <bounds
-        x="522"
-        y="-13"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Goal"
-        href="Goal_id-0f32c223f1d74d85b3e72a0b35739d83.xml#id-0f32c223f1d74d85b3e72a0b35739d83"/>
-  </children>
 </archimate:ArchimateDiagramModel>
