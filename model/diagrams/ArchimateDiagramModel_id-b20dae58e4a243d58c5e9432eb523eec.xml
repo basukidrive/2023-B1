@@ -501,14 +501,14 @@
         target="id-149801158e9f4b948c8f222e8df81707">
       <bendpoints
           startX="12"
-          startY="60"
+          startY="63"
           endX="-163"
-          endY="-51"/>
+          endY="-48"/>
       <bendpoints
-          startX="174"
-          startY="60"
-          endX="-1"
-          endY="-51"/>
+          startX="168"
+          startY="63"
+          endX="-7"
+          endY="-48"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-28c1dc8c31164b1f9666d53808904cbe.xml#id-28c1dc8c31164b1f9666d53808904cbe"/>
@@ -520,14 +520,14 @@
         target="id-4b540814e3734174a8563050d3e47d2f">
       <bendpoints
           startX="12"
-          startY="58"
+          startY="63"
           endX="-310"
-          endY="-53"/>
+          endY="-48"/>
       <bendpoints
-          startX="319"
-          startY="58"
-          endX="-3"
-          endY="-53"/>
+          startX="324"
+          startY="63"
+          endX="2"
+          endY="-48"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-474728afa7344c37a014ac442a5b530f.xml#id-474728afa7344c37a014ac442a5b530f"/>
