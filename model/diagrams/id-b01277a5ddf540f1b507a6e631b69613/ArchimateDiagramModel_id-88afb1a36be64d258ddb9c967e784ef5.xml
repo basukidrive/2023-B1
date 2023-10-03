@@ -833,7 +833,7 @@
         width="178"
         height="48"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-8e65d2c6fe2e4f5a8992bfb14de9b0e8.xml#id-8e65d2c6fe2e4f5a8992bfb14de9b0e8"/>
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-9b9d171e5a91406b868b546f5ce6afda.xml#id-9b9d171e5a91406b868b546f5ce6afda"/>
   </children>
 </archimate:ArchimateDiagramModel>
