@@ -149,9 +149,9 @@
     </sourceConnections>
     <bounds
         x="336"
-        y="240"
+        y="228"
         width="272"
-        height="61"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-23a3c52550fd45109d8c97ca2e6fc66b.xml#id-23a3c52550fd45109d8c97ca2e6fc66b"/>
