@@ -240,9 +240,21 @@
         x="96"
         y="216"
         width="120"
-        height="55"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Driver"
         href="Driver_id-ac1a72e8a301466094d7b293b70b2a73.xml#id-ac1a72e8a301466094d7b293b70b2a73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-149801158e9f4b948c8f222e8df81707">
+    <bounds
+        x="252"
+        y="216"
+        width="109"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-9f544438bdc740e6a8845ffd5f3178c4.xml#id-9f544438bdc740e6a8845ffd5f3178c4"/>
   </children>
 </archimate:ArchimateDiagramModel>
