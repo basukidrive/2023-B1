@@ -13,10 +13,10 @@
         source="id-5f8ce44f215747d5a034b904f4a2b492"
         target="id-36253d9461904d78b67dc99fdc26d462">
       <bendpoints
-          startX="-2"
-          startY="59"
-          endX="285"
-          endY="-58"/>
+          startX="1"
+          startY="60"
+          endX="288"
+          endY="-57"/>
       <bendpoints
           startX="-287"
           startY="60"
@@ -76,9 +76,9 @@
         source="id-5f8ce44f215747d5a034b904f4a2b492"
         target="id-fc74ec8d90ac4db58566bbe1ba7f6bc8">
       <bendpoints
-          startX="-2"
+          startX="1"
           startY="60"
-          endX="138"
+          endX="141"
           endY="-57"/>
       <bendpoints
           startX="-143"
@@ -385,7 +385,7 @@
       id="id-9dcc8f4d162e4c91b40a2ef08c2a297e"
       targetConnections="id-7bb8a4deb61d48e4aa2e6c6791fa6806">
     <bounds
-        x="983"
+        x="972"
         y="576"
         width="120"
         height="55"/>
@@ -407,8 +407,8 @@
           href="AssociationRelationship_id-834d4555e42542af85328dfcb277905c.xml#id-834d4555e42542af85328dfcb277905c"/>
     </sourceConnections>
     <bounds
-        x="984"
-        y="456"
+        x="959"
+        y="462"
         width="145"
         height="61"/>
     <archimateElement
@@ -473,7 +473,7 @@
           href="AssociationRelationship_id-f9b1a6e501ba4ef9ae2ee3f0dd025a71.xml#id-f9b1a6e501ba4ef9ae2ee3f0dd025a71"/>
     </sourceConnections>
     <bounds
-        x="357"
+        x="360"
         y="354"
         width="120"
         height="55"/>
@@ -500,10 +500,10 @@
         source="id-bae94ec9121a481da54611c9aafe7885"
         target="id-149801158e9f4b948c8f222e8df81707">
       <bendpoints
-          startX="12"
-          startY="63"
-          endX="-163"
-          endY="-48"/>
+          startX="7"
+          startY="61"
+          endX="-156"
+          endY="-50"/>
       <bendpoints
           startX="168"
           startY="63"
@@ -519,10 +519,10 @@
         source="id-bae94ec9121a481da54611c9aafe7885"
         target="id-4b540814e3734174a8563050d3e47d2f">
       <bendpoints
-          startX="12"
-          startY="63"
-          endX="-310"
-          endY="-48"/>
+          startX="7"
+          startY="61"
+          endX="-303"
+          endY="-50"/>
       <bendpoints
           startX="324"
           startY="63"
@@ -533,7 +533,7 @@
           href="AssociationRelationship_id-474728afa7344c37a014ac442a5b530f.xml#id-474728afa7344c37a014ac442a5b530f"/>
     </sourceConnections>
     <bounds
-        x="492"
+        x="504"
         y="354"
         width="120"
         height="55"/>
@@ -563,7 +563,7 @@
           href="AssociationRelationship_id-c963080b74f549adaed398e55b904dac.xml#id-c963080b74f549adaed398e55b904dac"/>
     </sourceConnections>
     <bounds
-        x="636"
+        x="645"
         y="354"
         width="120"
         height="55"/>
