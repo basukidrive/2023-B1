@@ -135,6 +135,11 @@
         target="id-9e00369ca5d44ea6ba57779de0b570b2">
       <bendpoints
           startX="-4"
+          startY="42"
+          endX="-348"
+          endY="-54"/>
+      <bendpoints
+          startX="-4"
           startY="54"
           endX="-356"
           endY="-42"/>
