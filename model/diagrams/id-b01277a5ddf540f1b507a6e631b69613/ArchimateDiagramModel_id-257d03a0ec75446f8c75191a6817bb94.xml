@@ -38,7 +38,7 @@
           href="AssociationRelationship_id-f510cd911500497b8481e858c3cbcc73.xml#id-f510cd911500497b8481e858c3cbcc73"/>
     </sourceConnections>
     <bounds
-        x="168"
+        x="156"
         y="12"
         width="180"
         height="157"/>
@@ -75,7 +75,7 @@
     </sourceConnections>
     <bounds
         x="108"
-        y="276"
+        y="300"
         width="320"
         height="55"/>
     <archimateElement
@@ -96,7 +96,7 @@
     </sourceConnections>
     <bounds
         x="72"
-        y="360"
+        y="384"
         width="169"
         height="73"/>
     <archimateElement
@@ -118,7 +118,7 @@
     </sourceConnections>
     <bounds
         x="276"
-        y="360"
+        y="384"
         width="169"
         height="73"/>
     <archimateElement
@@ -156,14 +156,12 @@
         source="id-a5e7e23f159548438a694b5e242ba2ae"
         target="id-8dc3ef6642a449588e98fdd8b94d3b46">
       <bendpoints
-          startX="24"
           startY="66"
-          endX="-144"
+          endX="-168"
           endY="-38"/>
       <bendpoints
-          startX="180"
+          startX="168"
           startY="66"
-          endX="12"
           endY="-38"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
@@ -197,7 +195,7 @@
         source="id-9a0ba0da233c40189a118e88aee49926"
         target="id-500fb0eea39f407aaf88c19c0b7e7f89">
       <bendpoints
-          startY="106"
+          startY="130"
           endX="144"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
@@ -222,8 +220,12 @@
         source="id-8dc3ef6642a449588e98fdd8b94d3b46"
         target="id-500fb0eea39f407aaf88c19c0b7e7f89">
       <bendpoints
-          startY="106"
+          startY="130"
           endX="312"/>
+      <bendpoints
+          startX="-168"
+          startY="130"
+          endX="144"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-098d67e40ec74b5ca723fb5f2cf76f04.xml#id-098d67e40ec74b5ca723fb5f2cf76f04"/>
