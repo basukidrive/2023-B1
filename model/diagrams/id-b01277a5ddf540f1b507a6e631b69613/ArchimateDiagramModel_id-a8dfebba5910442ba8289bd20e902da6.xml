@@ -1,4 +1,30 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="6. Katalog Proses Bisnis Layanan"
-    id="id-a8dfebba5910442ba8289bd20e902da6"/>
+    id="id-a8dfebba5910442ba8289bd20e902da6">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-284cfc42e4914af9921c3408c6db0aca">
+    <bounds
+        x="60"
+        y="48"
+        width="157"
+        height="49"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-f1eaa0dd10b7417b9f13c9dae9ccda0d.xml#id-f1eaa0dd10b7417b9f13c9dae9ccda0d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ab03639462b341f891c56bc228ec57ff">
+    <bounds
+        x="60"
+        y="120"
+        width="157"
+        height="49"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-3fffad0860b54c27a55d3e56709a6183.xml#id-3fffad0860b54c27a55d3e56709a6183"/>
+  </children>
+</archimate:ArchimateDiagramModel>
