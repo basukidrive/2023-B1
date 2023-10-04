@@ -36,9 +36,9 @@
     </sourceConnections>
     <bounds
         x="36"
-        y="60"
+        y="84"
         width="924"
-        height="300"/>
+        height="349"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-acb183dea8434fad9c655df904770b03"
