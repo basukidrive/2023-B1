@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Prinsip"
+    name="3 Prinsip"
     id="id-512f76f44a384948a5ec3b3b1b475c79">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -100,10 +100,19 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-7ef5f25fcca84da79ee53042e6524239.xml#id-7ef5f25fcca84da79ee53042e6524239"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-9c3010a27696474b86753b3389987e13"
+        source="id-b0a9ffb679964272b97c23a2c0496873"
+        target="id-349e8327fb7b41a9a82c67a90731aabb">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-6f9343f272244e26b8601b051c2cc1b1.xml#id-6f9343f272244e26b8601b051c2cc1b1"/>
+    </sourceConnections>
     <bounds
         x="120"
         y="288"
-        width="648"
+        width="793"
         height="96"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -156,6 +165,19 @@
       <archimateElement
           xsi:type="archimate:Principle"
           href="Principle_id-9868552dd1dd4833ada2daf39500a8fd.xml#id-9868552dd1dd4833ada2daf39500a8fd"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-349e8327fb7b41a9a82c67a90731aabb"
+        targetConnections="id-9c3010a27696474b86753b3389987e13">
+      <bounds
+          x="636"
+          y="30"
+          width="145"
+          height="49"/>
+      <archimateElement
+          xsi:type="archimate:Principle"
+          href="Principle_id-14efb54e567141d1aaf87582ace6b8fa.xml#id-14efb54e567141d1aaf87582ace6b8fa"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"

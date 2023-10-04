@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Visi Misi"
+    name="1 Visi Misi"
     id="id-5db4aa5c66d347749e65a8942d604e11">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -11,7 +11,7 @@
         x="307"
         y="76"
         width="577"
-        height="193"/>
+        height="213"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-df074a5244e5438694df7eca267031cd">
@@ -49,7 +49,7 @@
           x="192"
           y="36"
           width="180"
-          height="145"/>
+          height="157"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-51456f5a8fbe480d9462113aba3d7686.xml#id-51456f5a8fbe480d9462113aba3d7686"/>
