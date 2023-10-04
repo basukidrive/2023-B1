@@ -9,15 +9,15 @@
       name="Application  Portfolio Unit"
       textAlignment="1">
     <bounds
-        x="96"
+        x="36"
         y="108"
-        width="769"
+        width="829"
         height="193"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3716906a1bdb4b3cadf908e1a818da4e">
       <bounds
-          x="60"
+          x="156"
           y="72"
           width="120"
           height="55"/>
@@ -29,7 +29,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-462006b36d0249efbe6a53c05f7789f1">
       <bounds
-          x="192"
+          x="288"
           y="72"
           width="120"
           height="55"/>
@@ -41,7 +41,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-03384aad139f47e58cd74eebc2dda587">
       <bounds
-          x="324"
+          x="420"
           y="72"
           width="120"
           height="55"/>
@@ -53,7 +53,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-114e09d40f284a00afc095521a2393d3">
       <bounds
-          x="588"
+          x="684"
           y="72"
           width="120"
           height="55"/>
@@ -65,13 +65,26 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-544bdb1fe6af4326899ffcfaf802e1d4">
       <bounds
-          x="456"
+          x="552"
           y="72"
           width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-18daea59c3ef4887b77d25353fd9e31c.xml#id-18daea59c3ef4887b77d25353fd9e31c"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-6676fdb3ae9e4d7a8e03a004053deea8"
+        fillColor="#00ff80">
+      <bounds
+          x="24"
+          y="72"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-db67e8d9d35f45eaa3643cd939dcde68.xml#id-db67e8d9d35f45eaa3643cd939dcde68"/>
     </children>
   </children>
   <children
