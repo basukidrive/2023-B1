@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="2. Data Center Server Network Access"
+    name="2 Network Access"
     id="id-0297f16293e34735933e01a16f3244dc">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
