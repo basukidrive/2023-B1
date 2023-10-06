@@ -102,7 +102,7 @@
         x="12"
         y="348"
         width="180"
-        height="445"/>
+        height="493"/>
     <archimateElement
         xsi:type="archimate:WorkPackage"
         href="WorkPackage_id-209b73cd9f844077bd6cc65d858b50f2.xml#id-209b73cd9f844077bd6cc65d858b50f2"/>
@@ -217,7 +217,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-c1afbbd02c1149068e09fa399625d895"
       textAlignment="1"
-      content="Tahun 2024">
+      content="Tahun 2025">
     <bounds
         x="792"
         y="36"
