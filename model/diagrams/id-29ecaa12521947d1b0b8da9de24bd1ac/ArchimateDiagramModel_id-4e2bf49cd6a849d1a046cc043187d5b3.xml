@@ -20,7 +20,7 @@
       textAlignment="1"
       content="Tahun 2024">
     <bounds
-        x="504"
+        x="510"
         y="36"
         width="266"
         height="37"/>
@@ -173,7 +173,7 @@
       textAlignment="1"
       content="Semester I">
     <bounds
-        x="504"
+        x="510"
         y="84"
         width="133"
         height="37"/>
@@ -195,7 +195,7 @@
     <bounds
         x="384"
         y="264"
-        width="386"
+        width="674"
         height="49"/>
     <archimateElement
         xsi:type="archimate:Plateau"
@@ -212,5 +212,50 @@
     <archimateElement
         xsi:type="archimate:Plateau"
         href="Plateau_id-2d281f59c5ff4d04962a99363c30422c.xml#id-2d281f59c5ff4d04962a99363c30422c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c1afbbd02c1149068e09fa399625d895"
+      textAlignment="1"
+      content="Tahun 2024">
+    <bounds
+        x="792"
+        y="36"
+        width="266"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1cc6f16c18274cb8b38d03e533bb0a2b"
+      textAlignment="1"
+      content="Semester I">
+    <bounds
+        x="792"
+        y="84"
+        width="133"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2713338ee3e049178aa2311984368489"
+      textAlignment="1"
+      content="Semester 2">
+    <bounds
+        x="930"
+        y="84"
+        width="122"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-dc11c8b725aa4cf38c76df36535c028e">
+    <bounds
+        x="816"
+        y="804"
+        width="242"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Plateau"
+        href="Plateau_id-8676d0c54ca1457fa586d2c81101804a.xml#id-8676d0c54ca1457fa586d2c81101804a"/>
   </children>
 </archimate:ArchimateDiagramModel>
