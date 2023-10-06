@@ -43,7 +43,7 @@
     <bounds
         x="228"
         y="144"
-        width="132"
+        width="265"
         height="72"/>
     <archimateElement
         xsi:type="archimate:Plateau"
@@ -53,9 +53,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-613f0cdc31474e1b9470ec4fb2efcfb1">
     <bounds
-        x="373"
-        y="144"
-        width="120"
+        x="228"
+        y="228"
+        width="265"
         height="72"/>
     <archimateElement
         xsi:type="archimate:Plateau"
@@ -78,7 +78,7 @@
       id="id-23a396a1f5a848b4bddacafd34c24253">
     <bounds
         x="24"
-        y="276"
+        y="408"
         width="180"
         height="72"/>
     <archimateElement
@@ -90,7 +90,7 @@
       id="id-0f9b2ddf69ee44b8a4115b16050b58ea">
     <bounds
         x="228"
-        y="276"
+        y="408"
         width="132"
         height="72"/>
     <archimateElement
