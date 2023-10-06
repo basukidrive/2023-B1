@@ -22,7 +22,7 @@
     <bounds
         x="504"
         y="36"
-        width="229"
+        width="266"
         height="37"/>
   </children>
   <children
@@ -149,7 +149,7 @@
     <bounds
         x="528"
         y="504"
-        width="205"
+        width="242"
         height="37"/>
     <archimateElement
         xsi:type="archimate:Plateau"
@@ -161,10 +161,32 @@
     <bounds
         x="528"
         y="552"
-        width="205"
+        width="242"
         height="37"/>
     <archimateElement
         xsi:type="archimate:Plateau"
         href="Plateau_id-0aa89ceb7ee84b9bae14fa14940233f6.xml#id-0aa89ceb7ee84b9bae14fa14940233f6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4d94cef287304a19821cf100e44b161e"
+      textAlignment="1"
+      content="Semester I">
+    <bounds
+        x="504"
+        y="84"
+        width="133"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d62f88fff1da48edb06861ce6d1a3b07"
+      textAlignment="1"
+      content="Semester 2">
+    <bounds
+        x="648"
+        y="84"
+        width="122"
+        height="37"/>
   </children>
 </archimate:ArchimateDiagramModel>
