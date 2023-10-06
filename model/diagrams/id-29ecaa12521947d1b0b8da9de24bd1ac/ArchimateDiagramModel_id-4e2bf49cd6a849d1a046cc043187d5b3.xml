@@ -63,18 +63,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5c73e3fa67dc4065a92e87cd618c0a7d">
-    <bounds
-        x="883"
-        y="250"
-        width="120"
-        height="72"/>
-    <archimateElement
-        xsi:type="archimate:Plateau"
-        href="Plateau_id-0820ea83dcbb47dbb2c0b0e2fe01552e.xml#id-0820ea83dcbb47dbb2c0b0e2fe01552e"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1a67b6732e04473088b9ace16c86ba36">
     <bounds
         x="504"
