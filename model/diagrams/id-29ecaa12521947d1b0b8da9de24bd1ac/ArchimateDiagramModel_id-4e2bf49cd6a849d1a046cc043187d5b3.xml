@@ -73,4 +73,28 @@
         xsi:type="archimate:Plateau"
         href="Plateau_id-964fc2cbadf5428bbde177c2646b1775.xml#id-964fc2cbadf5428bbde177c2646b1775"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-23a396a1f5a848b4bddacafd34c24253">
+    <bounds
+        x="24"
+        y="276"
+        width="180"
+        height="72"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-70f0aee9d414488dac9372389c8f98d0.xml#id-70f0aee9d414488dac9372389c8f98d0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0f9b2ddf69ee44b8a4115b16050b58ea">
+    <bounds
+        x="228"
+        y="276"
+        width="132"
+        height="72"/>
+    <archimateElement
+        xsi:type="archimate:Plateau"
+        href="Plateau_id-63ff7990e51f4e0ab93d9c579418001d.xml#id-63ff7990e51f4e0ab93d9c579418001d"/>
+  </children>
 </archimate:ArchimateDiagramModel>
